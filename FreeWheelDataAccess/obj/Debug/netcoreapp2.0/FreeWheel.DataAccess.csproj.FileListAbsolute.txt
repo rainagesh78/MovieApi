@@ -1,0 +1,9 @@
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\bin\Debug\netcoreapp2.0\FreeWheel.DataAccess.deps.json
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\bin\Debug\netcoreapp2.0\FreeWheel.DataAccess.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\obj\Debug\netcoreapp2.0\FreeWheel.DataAccess.csprojResolveAssemblyReference.cache
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\obj\Debug\netcoreapp2.0\FreeWheel.DataAccess.csproj.CoreCompileInputs.cache
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\obj\Debug\netcoreapp2.0\FreeWheel.DataAccess.AssemblyInfoInputs.cache
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\obj\Debug\netcoreapp2.0\FreeWheel.DataAccess.AssemblyInfo.cs
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\bin\Debug\netcoreapp2.0\FreeWheel.DataAccess.pdb
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\obj\Debug\netcoreapp2.0\FreeWheel.DataAccess.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelDataAccess\obj\Debug\netcoreapp2.0\FreeWheel.DataAccess.pdb
