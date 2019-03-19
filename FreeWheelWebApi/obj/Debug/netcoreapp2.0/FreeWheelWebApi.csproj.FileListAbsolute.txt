@@ -1,0 +1,17 @@
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheelWebApi.deps.json
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheelWebApi.runtimeconfig.json
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheelWebApi.runtimeconfig.dev.json
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheelWebApi.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheelWebApi.pdb
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\obj\Debug\netcoreapp2.0\FreeWheelWebApi.csprojResolveAssemblyReference.cache
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\obj\Debug\netcoreapp2.0\FreeWheelWebApi.csproj.CoreCompileInputs.cache
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\obj\Debug\netcoreapp2.0\FreeWheelWebApi.AssemblyInfoInputs.cache
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\obj\Debug\netcoreapp2.0\FreeWheelWebApi.AssemblyInfo.cs
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\obj\Debug\netcoreapp2.0\FreeWheelWebApi.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\obj\Debug\netcoreapp2.0\FreeWheelWebApi.pdb
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheel.Context.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheel.Model.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheel.Service.dll
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheel.Service.pdb
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheel.Model.pdb
+C:\Nagesh\RnD\WebApi\FreeWheelWebApi\FreeWheelWebApi\FreeWheelWebApi\bin\Debug\netcoreapp2.0\FreeWheel.Context.pdb

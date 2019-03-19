@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeWheel.MovieWebApi", "FreeWheelWebApi\FreeWheel.MovieWebApi.csproj", "{B76744DD-3334-4AE0-9298-0F97E7632F1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeWheel.Service", "FreeWheel.Service\FreeWheel.Service.csproj", "{47FE9A35-AF64-4368-BB3B-342F0B45CF41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7026CCE2-3D09-4CC2-B811-9CFE77DBD287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeWheel.DataAccess", "FreeWheelDataAccess\FreeWheel.DataAccess.csproj", "{3B258686-AC85-413C-9182-47B02EE90815}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{AF9BF181-B4C6-4E56-B84C-27C336F5CC47}"
+	ProjectSection(SolutionItems) = preProject
+		..\DB\DB Create Script.sql = ..\DB\DB Create Script.sql
+		..\DB\DB_Initial_data.sql = ..\DB\DB_Initial_data.sql
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76744DD-3334-4AE0-9298-0F97E7632F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76744DD-3334-4AE0-9298-0F97E7632F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76744DD-3334-4AE0-9298-0F97E7632F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76744DD-3334-4AE0-9298-0F97E7632F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FE9A35-AF64-4368-BB3B-342F0B45CF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FE9A35-AF64-4368-BB3B-342F0B45CF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FE9A35-AF64-4368-BB3B-342F0B45CF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FE9A35-AF64-4368-BB3B-342F0B45CF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B258686-AC85-413C-9182-47B02EE90815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B258686-AC85-413C-9182-47B02EE90815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B258686-AC85-413C-9182-47B02EE90815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B258686-AC85-413C-9182-47B02EE90815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B76744DD-3334-4AE0-9298-0F97E7632F1D} = {7026CCE2-3D09-4CC2-B811-9CFE77DBD287}
+		{47FE9A35-AF64-4368-BB3B-342F0B45CF41} = {7026CCE2-3D09-4CC2-B811-9CFE77DBD287}
+		{3B258686-AC85-413C-9182-47B02EE90815} = {7026CCE2-3D09-4CC2-B811-9CFE77DBD287}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD089B0B-8C94-4E15-A8F3-082727F4044D}
+	EndGlobalSection
+EndGlobal
