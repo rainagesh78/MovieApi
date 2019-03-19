@@ -11,7 +11,7 @@ Api calls
 3. Query top 5 movies based on a certain user’s rating
    - api/Movies/MoviesByUser?id=3
 4. Add or update user rating for a movie
-   /api/Rating
+  - /api/Rating
    
    body send as jason
      {
